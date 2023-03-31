@@ -19,6 +19,8 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-goel&theme=onedark&layout=compact)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-goel&theme=onedark" alt="mystreak"/>
+
 ### My Holopin Board
 [![@vanshgoel's Holopin board](https://holopin.me/vanshgoel)](https://holopin.io/@vanshgoel)
 
