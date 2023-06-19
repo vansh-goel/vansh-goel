@@ -1,10 +1,10 @@
 ### Hey! 👋, This is Vansh
 
- - 🔭 I’m currently working on **Learning new technologies**
+ - 🔭 I’m currently working on **Some React Projects**
  - 🌱 I’m currently learning **Full Stack Development**
  - 👯 I’m looking to collaborate on **Frontend Projects**
  - 📫 How to reach me: Text me on [Twitter](http://twitter.com/_VanshGoel_)
- - ⚡ Fun fact: If I weren't in tech i'd probably be doing astronomy 
+ - ⚡ Fun fact: I love having quirky, innovative and thoughtful conversations 
 
 ### Connect with me
 <p>
