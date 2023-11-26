@@ -1,9 +1,9 @@
 ### Hey! 👋, This is Vansh
 
- - 🔭 I’m currently working on **Some React Projects**
- - 🌱 I’m currently learning **Full Stack Development**
- - 👯 I’m looking to collaborate on **Frontend Projects**
- - 📫 How to reach me: Text me on [Twitter](http://twitter.com/_VanshGoel_)
+ - 🔭 I’m currently working on **Full Stack Projects**
+ - 🌱 I’m currently learning **T3 Stack**
+ - 👯 I’m looking to collaborate on **Hackathons, Projects, Ideas**
+ - 📫 How to reach me: Text me on [Twitter](http://twitter.com/vanshxgoel)
  - ⚡ Fun fact: I love having quirky, innovative and thoughtful conversations 
 
 ### Connect with me
